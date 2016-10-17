@@ -1,0 +1,19 @@
+{
+  "name": "shirt",
+  "version": "0.1.0",
+  "description": "Automatic colour scheme generator via hashcode.",
+  "main": "lib/shirt.js",
+  "scripts": {
+    "test": "node test/basic"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sintaxi/shirt.git"
+  },
+  "author": "Brock Whitten <brock@sintaxi.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sintaxi/shirt/issues"
+  },
+  "homepage": "https://github.com/sintaxi/shirt#readme"
+}
